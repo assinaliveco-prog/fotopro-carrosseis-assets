@@ -1,0 +1,19 @@
+{
+  "raw_base": "https://raw.githubusercontent.com/assinaliveco-prog/fotopro-carrosseis-assets/master/",
+  "slides_per": 5,
+  "image_pattern": "<slug>_s1.png ... _s5.png",
+  "carousels": [
+    {"slug":"01-autoestima-feia","angle":"autoestima","audience":"geral","hook":"Você não é feia em foto, o problema é a câmera"},
+    {"slug":"02-autoestima-apaga","angle":"autoestima","audience":"geral","hook":"Você apaga toda foto sua"},
+    {"slug":"03-autoestima-lente","angle":"autoestima","audience":"geral","hook":"A culpa é da lente do celular"},
+    {"slug":"04-mae","angle":"emocional","audience":"maes","hook":"Seus filhos têm mil fotos, e você?"},
+    {"slug":"05-empreendedora","angle":"conversao","audience":"empreendedora","hook":"Cliente decide em 3s se compra de você"},
+    {"slug":"06-recomeco","angle":"identidade","audience":"recomeco","hook":"Você mudou, suas fotos não"},
+    {"slug":"07-solteira","angle":"desejo","audience":"apps_namoro","hook":"Sua foto tá te sabotando no amor"},
+    {"slug":"08-50mais","angle":"autoestima","audience":"50mais","hook":"Aos 50+ você está mais linda"},
+    {"slug":"09-autoridade","angle":"conversao","audience":"profissional_coach","hook":"Sua imagem fala antes de você"},
+    {"slug":"10-vendedora","angle":"conversao","audience":"vendas_mei","hook":"Quem vende precisa de cara de confiança"},
+    {"slug":"11-presente","angle":"emocional","audience":"aniversario","hook":"Se presenteie com um ensaio"},
+    {"slug":"12-perfil-vende","angle":"conversao","audience":"criadora_online","hook":"Sua foto de perfil é sua vitrine 24h"}
+  ]
+}
